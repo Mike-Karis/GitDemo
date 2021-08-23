@@ -1,2 +1,2 @@
 hello world, git is fun!
-hola mundo
+hola mundo, git es divertido!
